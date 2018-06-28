@@ -1,0 +1,6 @@
+framework module JASidePanelsSwift {
+  umbrella header "JASidePanelsSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

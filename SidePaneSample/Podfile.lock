@@ -1,0 +1,28 @@
+PODS:
+  - Font-Awesome-Swift (1.7.2)
+  - JASidePanelsSwift (2.0.1)
+  - MBProgressHUD (1.1.0)
+  - ReachabilitySwift (4.1.0)
+
+DEPENDENCIES:
+  - Font-Awesome-Swift
+  - JASidePanelsSwift
+  - MBProgressHUD (~> 1.1.0)
+  - ReachabilitySwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Font-Awesome-Swift
+    - JASidePanelsSwift
+    - MBProgressHUD
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Font-Awesome-Swift: 83ab9db365379ee6025167cec67bdc5d3226a811
+  JASidePanelsSwift: ab069fb8d94bafe09338a9e60d3be4f0abc01b04
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+
+PODFILE CHECKSUM: 1946ee742d39aef55393b0c2985c4b8e68a79d19
+
+COCOAPODS: 1.5.3
